@@ -3,6 +3,8 @@
 **Class-20 NodeJS | Sıfırdan Backend Stack Kurulumu | Ders - 1**
 
 Oluşturduğumuz stack nodejs, express, mongodb teknolojilerini ve frameworklerini kapsamaktadır.
+Belirli özelliklere sahip olan arabaların pagination olarak listelendiği,
+yeni araba eklendiği, bir kullanıcının bir arabayı favoriye eklediği ve favoriden kaldırdığı 4 Endpoint yazılmıştır.
 
 #### Mongodb
 

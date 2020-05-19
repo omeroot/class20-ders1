@@ -20,5 +20,11 @@ Nodejs ve npm kurulumu beraber yapılır. Tek bir paket halinde ikiside yuklenir
 Bu linkten geliştirme yaptığınız ortama göre kurulum dosyasını indirebilirsiniz.
 (LTS versiyon önerilir.)
 
+**Çalıştırmak için ;**
+
+```text
+node index.js
+```
+
 *Soru ve görüşleriniz için aşağıdaki mail üzerinden bize ulaşabilirsiniz.*
 class20@markakod.com
